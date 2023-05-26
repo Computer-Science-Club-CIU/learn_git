@@ -2,6 +2,15 @@
 
 Welcome to the Git Learning Repository! This repository is designed to help you learn the basics of Git through a simple attendance task. Follow the instructions below to get started.
 
+## Setup git on your computer if you have not done so
+
+1. Download Git from [this link](http://git-scm.com/downloads)
+2. Register for github from [this link](https://github.com/)
+3. Set up git on you computer with the steps below
+   `git config --global user.name "Firstname Lastname"`
+   `git config --global user.email "your_email@youremail.com"`
+4. Create a new access token for authenticating with github from [here](https://github.com/settings/tokens/new)
+
 ## Instructions
 
 1. Clone the Repository:
