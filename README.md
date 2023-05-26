@@ -17,7 +17,7 @@ Welcome to the Git Learning Repository! This repository is designed to help you 
    `git clone https://github.com/Computer-Science-Club-CIU/learn_git.git`
    The `git clone` command is used to create a local copy of the repository on your machine.
 
-2. Create a New Branch: `git branch -b <branch-name>`
+2. Create a New Branch: `git checkout -b <branch-name>`
    Create a new branch using the `git branch` command and switch to it using `git checkout`. Replace `<branch-name>` with a descriptive name for your branch (in this case your name).
 
 3. Append Your Name:
